@@ -152,6 +152,7 @@
 <a href="https://www.blender.org/" target="_blank"><img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" height="40"/></a>
 <a href="https://inkscape.org/" target="_blank"><img src="https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13" height="40"/></a>
 <a href="https://proto.io/" target="_blank"><img src="https://img.shields.io/badge/Proto.io-161637?style=for-the-badge&logo=proto.io&logoColor=00e5ff" height="40"/></a>
+<a href="https://www.adobe.com/products/photoshop-lightroom.html" target="_blank"><img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=adobe-lightroom&logoColor=white" height="40"/></a>
 
 </div>
 
