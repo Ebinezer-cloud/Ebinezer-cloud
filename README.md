@@ -41,7 +41,7 @@
 - 🤖 Enjoy building projects that combine **creativity and problem-solving**
 - 🌱 Currently expanding my knowledge in **programming and software design**
 - 📚 Constantly **learning and exploring** new tools and frameworks
-- ⚡ Fun fact: I believe every project is an opportunity to learn something new 🚀
+- ⚡ Fun fact: I believe every project is an opportunity to learn something new 
 
 <br clear="right"/>
 
